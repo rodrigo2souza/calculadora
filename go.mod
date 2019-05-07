@@ -1,3 +1,3 @@
-module C:\Estudos_Correios\calculadora
+module github.com/rodrigo2souza/calculadora
 
 go 1.12
